@@ -5,6 +5,9 @@ This project simulates a real-world Data Analyst role for Olist, a major Brazili
 
 **Tools Used:** PostgreSQL, pgAdmin 4, SQL (CTEs, Window Functions, Aggregate Functions, Complex Joins, Date Math).
 
+
+<img width="1117" height="528" alt="dashboard" src="https://github.com/user-attachments/assets/a881f68d-698e-4b17-9545-cae775366326" />
+
 ## 📊 Key Business Insights Discovered
 1. **The Black Friday Surge:** Utilized CTEs and `LAG()` Window Functions to calculate MoM growth, uncovering a massive **52.37% revenue spike** in November 2017.
 2. **Logistical Efficiency:** Calculated date intervals between purchase and delivery timestamps, proving the operations team improved average delivery times from **~19 days (2016) to 11.8 days (2018)**.
